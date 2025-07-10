@@ -1,0 +1,25 @@
+base,title,year,author
+IEEE,"eBPF: A New Approach to Cloud-Native Observability, Networking and Security for Current (5G) and Future Mobile Networks (6G and Beyond)",2023,D. Soldani; P. Nahi; H. Bour; S. Jafarizadeh; M. F. Soliman; L. Di Giovanna; F. Monaco; G. Ognibene; F. Risso
+IEEE,Providing Telco-oriented Network Services with eBPF: the Case for a 5G Mobile Gateway,2021,F. Parola; F. Risso; S. Miano
+IEEE,Enhancing 5G Core security with eBPF/XDP,2024,L. Loureiro; V. Pereira; T. Cruz; P. Simões
+IEEE,Traffic Steering in Edge Compute Devices using eXpress Data Path for 5G and TSN Integration,2022,K. Nikhileswar; K. Prabhu; D. Cavalcanti
+IEEE,5GC-Observer Demonstrator: a Non-intrusive Observability Prototype for Cloud Native 5G System,2023,A. Khichane; I. Fajjari; N. Aitsaadi; M. Gueroui
+IEEE,LOCOMOTIVE 5G Core for 6G ready Resilient and Highly Available Network Slices and SFCs,2022,S. Sarkar; S. Vittal; A. F. A
+IEEE,Failure Prediction in Cloud Native 5G Core With eBPF-based Observability,2023,J. Kawasaki; D. Koyama; T. Miyasaka; T. Otani
+IEEE,5GC-Observer: a Non-intrusive Observability Framework for Cloud Native 5G System,2023,A. Khichane; I. Fajjari; N. Aitsaadi; M. Gueroui
+IEEE,"Towards an eBPF+XDP Based Framework for Open, Programmable and Scalable NextG RANs",2023,U. K. Dayalan; Z. Wu; G. Gautam; F. Tian; Z. -L. Zhang
+IEEE,Demystifying URLLC in Real-World 5G Networks: An End-to-End Experimental Evaluation,2024,T. Tsourdinis; N. Makris; T. Korakis; S. Fdida
+IEEE,Comparison of the Performance and Energy Efficiency Evaluation of 5G User-Plane Functions,2024,R. Bolla; R. Bruschi; F. Davoli; P. Ghiorzo; L. Ivaldi; C. Lombardo; B. Siccardi
+IEEE,HARNESS: High Availability Supportive Self Reliant Network Slicing in 5G Networks,2022,S. Vittal; A. A. Franklin
+IEEE,"An In-Kernel Solution Based on XDP for 5G UPF: Design, Prototype and Performance Evaluation",2021,T. A. N. do Amaral; R. V. Rosa; D. F. C. Moura; C. E. Rothenberg
+IEEE,SENTINEL: Self Protecting 5G Core Control Plane from DDoS Attacks for High Availability Service,2023,A. Chilukuri; S. Vittal; A. A. Franklin
+IEEE,Characterizing Wireless Link Throughput with eBPF and Hardware Timestamps,2023,S. Sundberg; J. Garcia; A. Brunstrom
+IEEE,Automating Mitigation of Amplification Attacks in NFV Services,2022,M. Repetto; G. Bruno; J. Yusupov; G. Lamanna; B. Ertl; A. Carrega
+Science Direct,Fast traffic processing in multi-tenant 5G environments: A comparative performance evaluation of P4 and eBPF technologies,2024,Jorge Gallego-Madrid and Alejandro Molina-Zarca and Ramon Sanchez-Iborra and Jordi Ortiz and Antonio F. Skarmeta
+Science Direct,Cable: A framework for accelerating 5G UPF based on eBPF,2023,Jianer Zhou and Zengxie Ma and Weijian Tu and Xinyi Qiu and Jingpu Duan and Zhenyu Li and Qing Li and Xinyi Zhang and Weichao Li
+Scopus,Taking 5G RAN Analytics and Control to a New Level,2023,Foukas X.; Radunovic B.; Balkwill M.; Lai Z.
+Scopus,PRAVEGA: Scaling Private 5G RAN via eBPF/XDP,2023,Dayalan U.K.; Wu Z.; Gautam G.; Tian F.; Zhang Z.-L.
+Scopus,FlexCore: Leveraging XDP-SCTP for Scalable and Resilient Network Slice Service in Future 5G Core,2023,Sharma B.; Vittal S.; Franklin A.A.
+Scopus,XDP-Based SmartNIC Hardware Performance Acceleration for Next-Generation Networks,2022,Salva-Garcia P.; Ricart-Sanchez R.; Chirivella-Perez E.; Wang Q.; Alcaraz-Calero J.M.
+Scopus,An eBPF-XDP Hardware-Based Network Slicing Architecture for Future 6G Front-to Back-Haul Networks,2024,Salva-Garcia P.; Ricart-Sanchez R.; Alcaraz-Calero J.M.; Wang Q.; Herrera-Ruiz O.
+Scopus,Evaluation of traditional and eBPF-based packet processing in Kubernetes for network slicing,2025,Leiter Á.; Matusovits D.; Bokor L.
