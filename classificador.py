@@ -61,7 +61,7 @@ Justificativa: (explique brevemente)
     texto = completion.choices[0].message.content.strip()
     return texto
 
-df = pd.read_csv("C:/Users/joses/Desktop/mapeamento/artigos.csv", sep=";")
+df = pd.read_csv("artigos.csv", sep=";")
 
 respostas = []
 justificativas = []
