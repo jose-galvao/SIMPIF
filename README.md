@@ -2,7 +2,11 @@
 
 Esse repositório contém os arquivos com a lista de artigos e o código em Python utilizados no artigo **Uso eBPF em Redes 5G: Um Estudo de Mapeamento Sistemático Assistido por IA**.
 
-O arquivo `LISTA-FINAL-ARTIGOS.csv` estão inclusos todos os artigos que foram selecionados para fazer parte dos resultados da pesquisa.
+O arquivo `LISTA-FINAL-ARTIGOS.csv` estão inclusos todos os artigos que foram selecionados para fazer parte dos resultados da pesquisa. Os campos presentes são:
+`base`: Base de dado de origem do artigo;
+`title`: Título do artigo;
+`year`: Ano de publicação do artigo;
+`author`: Autores do artigo.
 
 ## Como utilizar o `classificador.py`?
 
